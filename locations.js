@@ -1,5 +1,5 @@
 var locations = [
-  {"city":"AAAPoznan", "latitude":52.408333, "longitude":16.934167, "timeZone": 1},
+  {"city":"Poznan", "latitude":52.408333, "longitude":16.934167, "timeZone": 1},
   {"city":"Abu Dhabi", "latitude":24.47, "longitude":54.37, "timeZone": 4},
   {"city":"Accra", "latitude":5.56, "longitude":-0.2, "timeZone": 0},
   {"city":"Addis Ababa", "latitude":9.03, "longitude":38.75, "timeZone": 3},

@@ -1,10 +1,10 @@
 var locations = [
   // --- Polish Major Cities ---
+   {"city":"Poznan", "latitude":52.408333, "longitude":16.934167, "timeZone": 1},
   {"city":"Warsaw", "latitude":52.2297, "longitude":21.0122, "timeZone": 1},
   {"city":"Krakow", "latitude":50.0647, "longitude":19.9450, "timeZone": 1},
   {"city":"Lodz", "latitude":51.7592, "longitude":19.4560, "timeZone": 1},
-  {"city":"Wroclaw", "latitude":51.1079, "longitude":17.0385, "timeZone": 1},
-  {"city":"Poznan", "latitude":52.408333, "longitude":16.934167, "timeZone": 1},
+  {"city":"Wroclaw", "latitude":51.1079, "longitude":17.0385, "timeZone": 1}, 
   {"city":"Gdansk", "latitude":54.3520, "longitude":18.6466, "timeZone": 1},
   {"city":"Grybow", "latitude":49.624444, "longitude":20.948333, "timeZone": 1}, 
   
